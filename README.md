@@ -6,6 +6,7 @@ The goal is to identify distinct customer groups based on their purchasing behav
 
 ## Dataset
 The dataset used is the **Online Retail II** dataset, containing transaction data from an online retail store.  
+Data link : https://archive.ics.uci.edu/dataset/502/online+retail+ii
 The data includes:
 
 - **InvoiceNo**: Invoice number (numeric, with 'C' indicating cancellation)  
